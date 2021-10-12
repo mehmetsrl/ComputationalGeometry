@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "/Users/mehmetsarioglu/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.4.1",
+    "restore": {
+      "projectUniqueName": "/Users/mehmetsarioglu/Downloads/KdTree-master/KdTreeLib/KdTreeLib.csproj",
+      "projectName": "KdTreeLib",
+      "projectPath": "/Users/mehmetsarioglu/Downloads/KdTree-master/KdTreeLib/KdTreeLib.csproj",
+      "packagesPath": "/Users/mehmetsarioglu/.nuget/packages/",
+      "outputPath": "/Users/mehmetsarioglu/Downloads/KdTree-master/KdTreeLib/obj",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/mehmetsarioglu/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {}
+    }
+  }
+}
